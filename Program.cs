@@ -45,3 +45,14 @@
 //        i++;
 //    }
 #endregion
+#region 06
+//string books;
+//bool isparsed;
+//do
+//{
+//    Console.WriteLine("Checking book....");
+//    isparsed =int.TryParse(Console.ReadLine(), out books);
+//}
+//while (books<3);
+#endregion
+#endregion
