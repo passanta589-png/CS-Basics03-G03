@@ -55,4 +55,10 @@
 //}
 //while (books<3);
 #endregion
+#region 07
+//string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+//foreach (string book in books)
+//{
+//    Console.WriteLine($"{book}");
+//}
 #endregion
