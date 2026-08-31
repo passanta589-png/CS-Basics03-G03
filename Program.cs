@@ -30,3 +30,10 @@
 //    string result = pages > 300 ? "Long Book" : "Short Book";
 //    Console.WriteLine(result);
 #endregion
+#region 04
+//    string[] books = { "clean code", "The pragmatic programmer", "Refactoring" };
+//   for (int i = 0; i < 3; i++)
+//    {
+//       Console.WriteLine(books[i]);
+//    }
+#endregion
