@@ -87,3 +87,14 @@
 //    Console.WriteLine(book);
 //}
 #endregion
+#region 10
+//static void PrintFirstBook(string[] books)
+//{
+//    if (books.Length == 0)
+//    {
+//        return;
+//    }
+
+//    Console.WriteLine(books[0]);
+//}
+#endregion
