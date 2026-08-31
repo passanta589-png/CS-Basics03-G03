@@ -37,3 +37,11 @@
 //       Console.WriteLine(books[i]);
 //    }
 #endregion
+#region 05
+//    int i = 0;
+//    while (books.Length > 0) 
+//    {
+//        Console.WriteLine(books[i]);
+//        i++;
+//    }
+#endregion
