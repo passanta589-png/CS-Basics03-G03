@@ -23,3 +23,10 @@
 //            break;
 //    }
 #endregion
+#region 03
+//    #region 03
+//    int Pages = 464;
+
+//    string result = pages > 300 ? "Long Book" : "Short Book";
+//    Console.WriteLine(result);
+#endregion
